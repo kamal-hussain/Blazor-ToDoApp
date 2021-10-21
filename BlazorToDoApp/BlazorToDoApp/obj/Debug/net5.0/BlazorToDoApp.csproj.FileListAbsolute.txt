@@ -57,4 +57,3 @@ C:\Blazor-ToDoApp\BlazorToDoApp\BlazorToDoApp\obj\Debug\net5.0\BlazorToDoApp.gen
 C:\Blazor-ToDoApp\BlazorToDoApp\BlazorToDoApp\obj\Debug\net5.0\BlazorToDoApp.csproj.CopyComplete
 C:\Blazor-ToDoApp\BlazorToDoApp\BlazorToDoApp\obj\Debug\net5.0\RazorDeclaration\Pages\Components\ToDo.razor.g.cs
 C:\Blazor-ToDoApp\BlazorToDoApp\BlazorToDoApp\obj\Debug\net5.0\Razor\Pages\Components\ToDo.razor.g.cs
-C:\Blazor-ToDoApp\BlazorToDoApp\BlazorToDoApp\obj\Debug\net5.0\BlazorToDoApp.csproj.AssemblyReference.cache

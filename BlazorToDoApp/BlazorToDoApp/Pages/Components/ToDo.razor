@@ -7,10 +7,8 @@
 <EditForm Model="@task" class="form-inline" OnValidSubmit="@AddTask">
     <DataAnnotationsValidator />
     <input class="form-control mx-2" type="text" @bind-value="task.TaskName">
-    <button class="btn btn-outline-primary mx-2">Add Task</button> <br/>
-    <div>
-        <ValidationSummary />
-    </div>
+    <button class="btn btn-outline-primary mx-2">Add Task</button>
+        <ValidationSummary class="badge badge-secondary"/>
 </EditForm>
 
 <div class="progress-bar my-2 mx-1" role="progress-bar" style="width: @(PercentageCompleted)%" aria-valuemax="100" aria-valuemin="0">
